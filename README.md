@@ -1,6 +1,6 @@
-# myapp
+# app-planetas-2230779
 
-A new Flutter project.
+Um novo projeto Flutter, este aplicativo permite gerenciar planetas, como adicionar, deletar, editar, como em um crud. Esse projeto foi feito de acordo com a atividade da disciplina 12 Desenvolvimento de um Aplicativo Móvel, que tem como objetivo consolidar nosso conhecimento sobre esse assunto. E nos dar uma base de como criar um aplicativo.
 
 ## Getting Started
 
